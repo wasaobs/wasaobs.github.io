@@ -3,7 +3,10 @@
 ## 各種リンク
 
 1. Slack
- * Slack は[こちら](https://wasaobs.slack.com/shared_invite/MTI0ODQ5MzEzOTg5LTE0ODM5MDE4ODQtMDNiNzBiZDRlZQ)
+ * 現行版は[こちら](https://wasaobs.slack.com)
+ * 旧版は[こちら](https://wasao.slack.com)
+
+[](https://wasaobs.slack.com/shared_invite/MTI0ODQ5MzEzOTg5LTE0ODM5MDE4ODQtMDNiNzBiZDRlZQ)
 
 1. Wiki
  * Crowi は[こちら](http://183.181.56.33:3000)
