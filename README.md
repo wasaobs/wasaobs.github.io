@@ -1,6 +1,6 @@
-ここは WASAOBs のホームページです
+# ここは WASAOBs のホームページです
 
-# 各種リンク
+## 各種リンク
 
 1. Slack
  * wasao.slack.com
@@ -12,6 +12,6 @@
 1. ストレージ
  * Google Drive は[こちら](https://drive.google.com/open?id=0B-XNU4W8pi4AMkNRTkx2amlmY2M)
 
-# 管理者
+## 管理者
 
 takara.kasai@gmail.com
