@@ -3,8 +3,8 @@
 ## 各種リンク
 
 1. Slack
- * wasao.slack.com
-   
+ * Slack は[こちら](https://wasaobs.slack.com/shared_invite/MTI0ODQ5MzEzOTg5LTE0ODM5MDE4ODQtMDNiNzBiZDRlZQ)
+
 1. Wiki
  * Crowi は[こちら](http://183.181.56.33:3000)
  * Google Site は[こちら](https://sites.google.com/site/wasaokudeboys/) (旧情報になります)
